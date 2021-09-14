@@ -1,0 +1,22 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(86, 209, 86);
+    padding: 50px;
+}
+h1 {
+    text-align: center;
+    }
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 20px;
+}
+p {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}    
+.msg {
+    text-align: center;
+    border: yellow;
+}
